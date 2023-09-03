@@ -8,3 +8,4 @@ https://habr.com/ru/articles/100891/
 articles
 
 [Что такое CI/CD? Разбираемся с непрерывной интеграцией и непрерывной поставкой](https://habr.com/ru/companies/otus/articles/515078/)
+[Пирамида Маслоу в аспекте разработки ПО](https://habr.com/ru/articles/587620/)
