@@ -16,3 +16,5 @@ articles
 ### [Всё, что вы не знали о CAP теореме](https://habr.com/ru/articles/328792/)
 
 ### [Когда использовать mocks в юнит-тестировании](https://habr.com/ru/articles/577424/)
+
+### [Когда использовать mocks в юнит-тестировании](https://habr.com/ru/articles/577424/)
