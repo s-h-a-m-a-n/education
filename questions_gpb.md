@@ -23,6 +23,6 @@ articles
 
 ### [Готовим тестовое окружение, или сколько тестовых инстансов вам нужно](https://habr.com/ru/companies/oleg-bunin/articles/358482/)
 
-### []()
+### [Пирамида тестов на практике](https://habr.com/ru/articles/358950/)
 
 ### []()
