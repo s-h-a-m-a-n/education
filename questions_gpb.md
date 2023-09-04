@@ -12,3 +12,5 @@ articles
 ### [Пирамида Маслоу в аспекте разработки ПО](https://habr.com/ru/articles/587620/)
 
 ### [Теория тестирования ПО просто и понятно](https://habr.com/ru/articles/587620/)
+
+### [Всё, что вы не знали о CAP теореме](https://habr.com/ru/articles/328792/)
