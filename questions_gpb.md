@@ -14,3 +14,5 @@ articles
 ### [Теория тестирования ПО просто и понятно](https://habr.com/ru/articles/587620/)
 
 ### [Всё, что вы не знали о CAP теореме](https://habr.com/ru/articles/328792/)
+
+### [Когда использовать mocks в юнит-тестировании](https://habr.com/ru/articles/577424/)
